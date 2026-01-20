@@ -1,4 +1,4 @@
-# Prediksi Klasifikasi dan Regresi Titanic
+# Prediksi Klasifikasi dan Regresi Titanic.csv
 
 Repository ini berisi implementasi:
 - Klasifikasi menggunakan K-Nearest Neighbor (KNN)
